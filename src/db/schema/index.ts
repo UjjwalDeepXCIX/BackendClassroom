@@ -1,0 +1,1 @@
+export * from '/FullStack/classroom/backendclass/src/db/schema/app.js'
